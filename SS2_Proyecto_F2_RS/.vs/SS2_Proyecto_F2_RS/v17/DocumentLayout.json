@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|solutionrelative:SS2_Proyecto_F2_RS\\Venta_Reporte3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|solutionrelative:SS2_Proyecto_F2_RS\\Venta_Reporte2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|solutionrelative:SS2_Proyecto_F2_RS\\Compra_Reporte2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|solutionrelative:SS2_Proyecto_F2_RS\\Compra_Reporte1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|solutionrelative:SS2_Proyecto_F2_RS\\Venta_Reporte1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{094341F5-A345-4E34-8276-B21A57862256}|SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS.rptproj|solutionrelative:SS2_Proyecto_F2_RS\\Compra_Reporte3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta_Reporte3.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte3.rdl",
+              "RelativeDocumentMoniker": "SS2_Proyecto_F2_RS\\Venta_Reporte3.rdl",
+              "ToolTip": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte3.rdl [Design]",
+              "RelativeToolTip": "SS2_Proyecto_F2_RS\\Venta_Reporte3.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T20:58:12.863Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta_Reporte2.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte2.rdl",
+              "RelativeDocumentMoniker": "SS2_Proyecto_F2_RS\\Venta_Reporte2.rdl",
+              "ToolTip": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte2.rdl [Design]",
+              "RelativeToolTip": "SS2_Proyecto_F2_RS\\Venta_Reporte2.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T20:34:07.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venta_Reporte1.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte1.rdl",
+              "RelativeDocumentMoniker": "SS2_Proyecto_F2_RS\\Venta_Reporte1.rdl",
+              "ToolTip": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Venta_Reporte1.rdl [Design]",
+              "RelativeToolTip": "SS2_Proyecto_F2_RS\\Venta_Reporte1.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T19:04:08.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Compra_Reporte3.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte3.rdl",
+              "RelativeDocumentMoniker": "SS2_Proyecto_F2_RS\\Compra_Reporte3.rdl",
+              "ToolTip": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte3.rdl [Design]",
+              "RelativeToolTip": "SS2_Proyecto_F2_RS\\Compra_Reporte3.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T07:49:56.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compra_Reporte2.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte2.rdl",
+              "RelativeDocumentMoniker": "SS2_Proyecto_F2_RS\\Compra_Reporte2.rdl",
+              "ToolTip": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte2.rdl [Design]",
+              "RelativeToolTip": "SS2_Proyecto_F2_RS\\Compra_Reporte2.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T07:40:09.954Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compra_Reporte1.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte1.rdl",
+              "RelativeDocumentMoniker": "SS2_Proyecto_F2_RS\\Compra_Reporte1.rdl",
+              "ToolTip": "C:\\Users\\Derek\\source\\repos\\SS2_Proyecto_F2_RS\\SS2_Proyecto_F2_RS\\Compra_Reporte1.rdl [Design]",
+              "RelativeToolTip": "SS2_Proyecto_F2_RS\\Compra_Reporte1.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T07:32:17.108Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

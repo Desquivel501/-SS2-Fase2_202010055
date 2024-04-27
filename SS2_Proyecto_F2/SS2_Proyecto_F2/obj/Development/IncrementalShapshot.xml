@@ -1,0 +1,124 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>SS2_Proyecto_F2</Database>
+    <Server>DESKTOP-D3E52S7</Server>
+    <ConnectionString>Data Source=DESKTOP-D3E52S7;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>KSBNTGLUcmkDBl9f/gNXzgaiVg8=14/04/2024 5:24:43 PM14/04/2024 4:20:20 PM</TimeStamp>
+        <ID>
+          <String>Seminario2 202010055</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>Gjsbwg++NlJjDsJ23RrmXJ96huA=26/04/2024 1:28:29 AM14/04/2024 4:21:19 PM</TimeStamp>
+        <ID>
+          <String>Seminario2 202010055</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>d3raheVcc2JPBs/T5qh/0d6qTMQ=14/04/2024 4:35:04 PM14/04/2024 4:23:23 PM</TimeStamp>
+        <ID>
+          <String>Categoria</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>JiIeeI6vyidE9A6x88rxVgAn6yI=14/04/2024 4:23:50 PM14/04/2024 4:23:50 PM</TimeStamp>
+        <ID>
+          <String>Cliente</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>BNOMYhpfMoYV6Sjxnpd3lmP5cH0=14/04/2024 5:31:37 PM14/04/2024 5:31:37 PM</TimeStamp>
+        <ID>
+          <String>Marca</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>2fMXjHQYtgWvJUXgR2GfCLmQh2o=14/04/2024 5:58:31 PM14/04/2024 5:32:43 PM</TimeStamp>
+        <ID>
+          <String>Producto</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>BWK2lSJ/ID8OJbdWYNSZYEfCCK4=14/04/2024 5:33:33 PM14/04/2024 5:33:33 PM</TimeStamp>
+        <ID>
+          <String>Vendedor</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>JGoVvjKNQllek+1aiCLgSQN/yuw=26/04/2024 1:24:24 AM14/04/2024 5:48:08 PM</TimeStamp>
+        <ID>
+          <String>Fecha</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Sikl36Ix+YH6jD8dYvqD+MLzkdQ=14/04/2024 5:48:26 PM14/04/2024 5:48:26 PM</TimeStamp>
+        <ID>
+          <String>Departamento</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>e30caaFsUwJGbPcMLaPkrWwQ4do=14/04/2024 5:58:31 PM14/04/2024 5:49:21 PM</TimeStamp>
+        <ID>
+          <String>Sucursal</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Vy9UOouUK8srjASjgX3z0LCTWUw=14/04/2024 6:19:20 PM14/04/2024 6:19:20 PM</TimeStamp>
+        <ID>
+          <String>Proveedor</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>TptY7+T2e7yqgr//QJPF45Ce4Rs=26/04/2024 1:20:40 AM14/04/2024 6:13:53 PMU00nIfCf63ZNhnAtIx/igxuayC0=14/04/2024 6:13:53 PM14/04/2024 6:13:53 PM</TimeStamp>
+        <ID>
+          <String>Ventas_Cube</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>yw6yKfDknGBFvZvYzNpnulxP6Bo=26/04/2024 1:20:28 AM14/04/2024 6:20:00 PMHn7KA7euBoQDtpC10z0XSjvxZhk=14/04/2024 6:20:00 PM14/04/2024 6:20:00 PM</TimeStamp>
+        <ID>
+          <String>Seminario2 202010055</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>FYi8JGSO5NvACxH25rAp1y0n9V4=14/04/2024 4:13:26 PM14/04/2024 4:13:25 PM</TimeStamp>
+      <ID>
+        <String>SS2_Proyecto_F2</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-04-26T07:28:39.186667Z</LastDeployed>
+</DeploymentSnapshot>
